@@ -51,4 +51,7 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
+png-decoder/out/
+png-decoder/.vs/
+
 main
